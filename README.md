@@ -14,6 +14,9 @@ The project utilizes a curated Vegan Food Dataset, which includes:
 3) Steps for making dishes.
 4) Detailed information about ingredients to make recipes.
 
+# Demo Video Link
+https://drive.google.com/file/d/1jQC4O-wTrkX1NYAWHw_leMstsgHhAeJ5/view?usp=sharing
+
 # Demo Usage
 Here's the link to the demo use of this application.
 # Installation
