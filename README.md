@@ -23,9 +23,12 @@ To set-up HogwartsBot, follow the steps below:
 
     `git clone https://github.com/Rajshree1102/llm_app_VeganAI`
 
+   - Go into this Directory:
+     'cd llm_app_VeganAI'
+
 - Run the application using **Docker**:
 
-    `docker build -t veganai`\
+    `docker build -t veganai .`\
     `docker run -p 8000:8000 veganai`
     
     Running the docker container may take upto 3-4 minutes.
