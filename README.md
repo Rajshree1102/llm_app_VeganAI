@@ -25,8 +25,8 @@ To set-up HogwartsBot, follow the steps below:
 
 - Run the application using **Docker**:
 
-    `docker build -t VeganAI`\
-    `docker run -p 8000:8000 VeganAI`
+    `docker build -t veganai`\
+    `docker run -p 8000:8000 veganai`
     
     Running the docker container may take upto 3-4 minutes.
 - Use either Postman or ThunderClient API service to give prompt requests:
